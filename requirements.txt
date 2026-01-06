@@ -1,0 +1,11 @@
+langchain[openai]
+foundry-local-sdk
+azure-cosmos
+langchain-openai
+langchain_community
+langchain-azure-ai
+bs4
+azure-identity
+langchain-ollama
+urllib3
+pypdf
